@@ -1,0 +1,16 @@
+{
+    "type": "content",
+    "name": "Praise the Sun",
+    "version": "1.0.0",
+    "description": "Vintage Story mod to make it harder for drifters, shivers, and bowtorn to spawn in low light (light level 4, down from regular 7)",
+    "modid": "tzpraisethesun",
+    "authors": [
+        "twizzork"
+    ],
+    "side": "Universal",
+    "requiredOnClient": true,
+    "requiredOnServer": true,
+    "dependencies": {
+        "game": ">=1.22.0"
+    }
+}

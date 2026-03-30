@@ -1,0 +1,8 @@
+[
+    {
+        "file": "game:entities/lore/shiver.json",
+        "op": "replace",
+        "path": "/server/spawnconditions/runtime/maxLightLevel",
+        "value": "4"
+    }
+]
