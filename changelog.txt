@@ -1,2 +1,5 @@
+v1.0.1
+removed version requirement; should not break unless major changes made to base game or json file paths
+
 v1.0.0
 initial release
